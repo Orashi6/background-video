@@ -70,34 +70,24 @@
     position: absolute;
     left: 0;
     right: 0;
-    top: 400%;
-    bottom: 0;
-    z-index: -2;
-}
-.video6{
-    width: 100%;
-    position: absolute;
-    left: 0;
-    right: 0;
-    top: 500%;
+    top: 380%;
     bottom: 0;
     z-index: -2;
 }
 
 .main-box {
-   margin-top: 550px;
+    margin-top: 550px;
     display: flex;
     flex-direction: column;
     gap: 15px;
 
 
 }
-.main-box2{
-    position: absolute;
-    bottom: 50%;
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
+.m1{
+    margin-top: 100px 0 ;
+}
+.m2{
+    margin-top:520px ;
 }
 
 .main-item {
